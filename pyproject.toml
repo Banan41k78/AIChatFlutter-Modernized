@@ -12,4 +12,4 @@ build_number = 1
 company = "banan41k"
 
 [tool.flet.app]
-path = "src"
+path = "src" 

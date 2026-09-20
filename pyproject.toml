@@ -1,0 +1,15 @@
+[project]
+name = "ai-chat"
+version = "1.0.0"
+description = "AI Chat on Flet"
+requires-python = ">=3.11"
+
+[tool.flet]
+product = "AI Chat"
+org = "com.banan41k"
+bundle_id = "com.banan41k.aichat"
+build_number = 1
+company = "banan41k"
+
+[tool.flet.app]
+path = "src"
